@@ -22,3 +22,5 @@ Command to add cards is add
 If there are no more sets and no more cards can be added the game will end
 
 To run the application, run "ruby main.rb"
+
+This game of set is a termianl game
